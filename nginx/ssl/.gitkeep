@@ -1,3 +1,0 @@
-# SSL-Zertifikate werden hier abgelegt
-# Für Production: Let's Encrypt Zertifikate
-# Für Development: Self-signed Zertifikate (optional)
